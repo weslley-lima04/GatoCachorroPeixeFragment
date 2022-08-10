@@ -3,6 +3,11 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/GatoCachorroPeixeFragment/app/src/main/res/layout/activity_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/GatoCachorroPeixeFragment/app/src/main/res/layout/fragment_cachorro.xml" value="0.33" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/GatoCachorroPeixeFragment/app/src/main/res/layout/fragment_gato.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/GatoCachorroPeixeFragment/app/src/main/res/layout/fragment_peixe.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/GatoCachorroPeixeFragment/app/src/main/res/menu/menu.xml" value="0.27421875" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/testeFragment/app/src/main/res/layout/fragment_cachorro.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/testeFragment/app/src/main/res/layout/fragment_gato.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/Laboratorio-Info/AndroidStudioProjects/testeFragment/app/src/main/res/layout/fragment_peixe.xml" value="0.36666666666666664" />
